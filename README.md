@@ -55,6 +55,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Srishti1515/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Srishti1515/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Srishti1515/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/Srishti1515/LeetCode/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Srishti1515/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Srishti1515/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -71,4 +72,16 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/Srishti1515/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Srishti1515/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Srishti1515/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Srishti1515/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
