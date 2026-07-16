@@ -1,16 +1,15 @@
 class Solution {
     public int firstUniqChar(String s) {
           int[]freq = new int[26];
+          Queue<Integer>q=new LinkedList<>();
         for(int i=0;i<s.length();i++) {
             freq[s.charAt(i)-'a']++;
+            q.add(i);
         }
-        
-        for(int i=0;i<s.length();i++) {
-            if(freq[s.charAt(i)-'a']==1) {
-                return i;
+            while(!q.isEmpty() && freq[s.charAt(q.peek())-'a']>1) {
+                q.remove();
             }
-        }
-
-        return -1;
+        
+        return  q.isEmpty() ? -1:q.peek();
     }
 }
