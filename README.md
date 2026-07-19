@@ -39,6 +39,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | ------- |
 | [0622-design-circular-queue](https://github.com/Srishti1515/LeetCode/tree/master/0622-design-circular-queue) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Srishti1515/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1512-number-of-good-pairs](https://github.com/Srishti1515/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Srishti1515/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Linked List
 |  |
@@ -82,6 +83,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | [0141-linked-list-cycle](https://github.com/Srishti1515/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Srishti1515/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Srishti1515/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/Srishti1515/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -92,6 +94,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Srishti1515/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/Srishti1515/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -101,6 +104,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Srishti1515/LeetCode/tree/master/0009-palindrome-number) |
+| [1512-number-of-good-pairs](https://github.com/Srishti1515/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
