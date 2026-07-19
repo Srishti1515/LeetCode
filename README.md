@@ -37,6 +37,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Srishti1515/LeetCode/tree/master/0048-rotate-image) |
 | [0622-design-circular-queue](https://github.com/Srishti1515/LeetCode/tree/master/0622-design-circular-queue) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Srishti1515/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1512-number-of-good-pairs](https://github.com/Srishti1515/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -104,10 +105,15 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Srishti1515/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Srishti1515/LeetCode/tree/master/0048-rotate-image) |
 | [1512-number-of-good-pairs](https://github.com/Srishti1515/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Srishti1515/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Srishti1515/LeetCode/tree/master/0141-linked-list-cycle) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Srishti1515/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
