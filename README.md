@@ -83,6 +83,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Srishti1515/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Srishti1515/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Srishti1515/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
@@ -98,4 +99,8 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Srishti1515/LeetCode/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Srishti1515/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
