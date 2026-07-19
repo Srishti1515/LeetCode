@@ -78,10 +78,12 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Srishti1515/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Srishti1515/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Srishti1515/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Srishti1515/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -90,6 +92,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Srishti1515/LeetCode/tree/master/0242-valid-anagram) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Srishti1515/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Math
 |  |
