@@ -91,4 +91,8 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 |  |
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Srishti1515/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Srishti1515/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
