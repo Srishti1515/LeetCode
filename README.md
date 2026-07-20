@@ -81,6 +81,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Srishti1515/LeetCode/tree/master/0043-multiply-strings) |
 | [0867-transpose-matrix](https://github.com/Srishti1515/LeetCode/tree/master/0867-transpose-matrix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Srishti1515/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Srishti1515/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -95,6 +96,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Srishti1515/LeetCode/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/Srishti1515/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Srishti1515/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Srishti1515/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -114,6 +116,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Srishti1515/LeetCode/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/Srishti1515/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Srishti1515/LeetCode/tree/master/0048-rotate-image) |
 | [1512-number-of-good-pairs](https://github.com/Srishti1515/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
