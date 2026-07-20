@@ -94,6 +94,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | [0242-valid-anagram](https://github.com/Srishti1515/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Srishti1515/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Srishti1515/LeetCode/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/Srishti1515/LeetCode/tree/master/0459-repeated-substring-pattern) |
 ## Counting
 |  |
 | ------- |
@@ -121,4 +122,8 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | ------- |
 | [0048-rotate-image](https://github.com/Srishti1515/LeetCode/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/Srishti1515/LeetCode/tree/master/0867-transpose-matrix) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Srishti1515/LeetCode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
