@@ -93,6 +93,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | [0125-valid-palindrome](https://github.com/Srishti1515/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Srishti1515/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Srishti1515/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0443-string-compression](https://github.com/Srishti1515/LeetCode/tree/master/0443-string-compression) |
 ## Counting
 |  |
 | ------- |
@@ -114,6 +115,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Srishti1515/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Srishti1515/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0443-string-compression](https://github.com/Srishti1515/LeetCode/tree/master/0443-string-compression) |
 ## Matrix
 |  |
 | ------- |
