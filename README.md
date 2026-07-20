@@ -48,10 +48,12 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/Srishti1515/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Srishti1515/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Srishti1515/LeetCode/tree/master/0146-lru-cache) |
 | [0622-design-circular-queue](https://github.com/Srishti1515/LeetCode/tree/master/0622-design-circular-queue) |
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Srishti1515/LeetCode/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Srishti1515/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Srishti1515/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Srishti1515/LeetCode/tree/master/0622-design-circular-queue) |
@@ -85,6 +87,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Srishti1515/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Srishti1515/LeetCode/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/Srishti1515/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Srishti1515/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/Srishti1515/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -127,4 +130,8 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Srishti1515/LeetCode/tree/master/0459-repeated-substring-pattern) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Srishti1515/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
