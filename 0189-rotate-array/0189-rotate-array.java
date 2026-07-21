@@ -12,3 +12,4 @@ class Solution {
         }
     }
 }
+//for left rotation(i-k+n)%n;
