@@ -46,6 +46,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Srishti1515/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Srishti1515/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/Srishti1515/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Srishti1515/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -115,6 +116,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Srishti1515/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Srishti1515/LeetCode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Srishti1515/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Srishti1515/LeetCode/tree/master/0048-rotate-image) |
@@ -141,5 +143,6 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Srishti1515/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Srishti1515/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
