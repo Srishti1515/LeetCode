@@ -43,6 +43,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | [0622-design-circular-queue](https://github.com/Srishti1515/LeetCode/tree/master/0622-design-circular-queue) |
 | [0867-transpose-matrix](https://github.com/Srishti1515/LeetCode/tree/master/0867-transpose-matrix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Srishti1515/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1470-shuffle-the-array](https://github.com/Srishti1515/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/Srishti1515/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Srishti1515/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Linked List
