@@ -156,4 +156,28 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Srishti1515/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Srishti1515/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Depth-First Search
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Srishti1515/LeetCode/tree/master/0743-network-delay-time) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Srishti1515/LeetCode/tree/master/0743-network-delay-time) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Srishti1515/LeetCode/tree/master/0743-network-delay-time) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Srishti1515/LeetCode/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Srishti1515/LeetCode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Srishti1515/LeetCode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
