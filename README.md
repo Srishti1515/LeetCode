@@ -38,6 +38,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Srishti1515/LeetCode/tree/master/0048-rotate-image) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srishti1515/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Srishti1515/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Srishti1515/LeetCode/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Srishti1515/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -137,6 +138,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Srishti1515/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/Srishti1515/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Srishti1515/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srishti1515/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Srishti1515/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Srishti1515/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Srishti1515/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -197,4 +199,8 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Srishti1515/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Srishti1515/LeetCode/tree/master/0724-find-pivot-index) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srishti1515/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
