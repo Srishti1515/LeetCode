@@ -121,6 +121,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | [0387-first-unique-character-in-a-string](https://github.com/Srishti1515/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Srishti1515/LeetCode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/Srishti1515/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Srishti1515/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Counting
 |  |
 | ------- |
@@ -224,4 +225,5 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Srishti1515/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Srishti1515/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
