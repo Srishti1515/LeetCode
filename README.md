@@ -41,6 +41,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | [0048-rotate-image](https://github.com/Srishti1515/LeetCode/tree/master/0048-rotate-image) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srishti1515/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Srishti1515/LeetCode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Srishti1515/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Srishti1515/LeetCode/tree/master/0283-move-zeroes) |
 | [0523-continuous-subarray-sum](https://github.com/Srishti1515/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Srishti1515/LeetCode/tree/master/0525-contiguous-array) |
@@ -208,6 +209,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Srishti1515/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Srishti1515/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Srishti1515/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Srishti1515/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -217,6 +219,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srishti1515/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Srishti1515/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -224,6 +227,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Srishti1515/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Srishti1515/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Srishti1515/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
