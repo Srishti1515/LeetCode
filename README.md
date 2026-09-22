@@ -50,6 +50,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | [0643-maximum-average-subarray-i](https://github.com/Srishti1515/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Srishti1515/LeetCode/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/Srishti1515/LeetCode/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/Srishti1515/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Srishti1515/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Srishti1515/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1470-shuffle-the-array](https://github.com/Srishti1515/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -222,6 +223,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srishti1515/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Srishti1515/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0875-koko-eating-bananas](https://github.com/Srishti1515/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Pigeonhole Principle
 |  |
 | ------- |
