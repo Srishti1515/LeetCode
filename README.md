@@ -40,6 +40,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Srishti1515/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Srishti1515/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Srishti1515/LeetCode/tree/master/0048-rotate-image) |
+| [0134-gas-station](https://github.com/Srishti1515/LeetCode/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srishti1515/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Srishti1515/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Srishti1515/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -266,6 +267,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Srishti1515/LeetCode/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Srishti1515/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Srishti1515/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Srishti1515/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
