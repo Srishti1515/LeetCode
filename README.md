@@ -52,6 +52,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | [0622-design-circular-queue](https://github.com/Srishti1515/LeetCode/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/Srishti1515/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Srishti1515/LeetCode/tree/master/0724-find-pivot-index) |
+| [0860-lemonade-change](https://github.com/Srishti1515/LeetCode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Srishti1515/LeetCode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Srishti1515/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Srishti1515/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -262,4 +263,5 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Srishti1515/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Srishti1515/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0860-lemonade-change](https://github.com/Srishti1515/LeetCode/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
