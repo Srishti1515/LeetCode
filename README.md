@@ -60,6 +60,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | [1470-shuffle-the-array](https://github.com/Srishti1515/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/Srishti1515/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Srishti1515/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/Srishti1515/LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
 ## Linked List
 |  |
 | ------- |
@@ -131,6 +132,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | [0443-string-compression](https://github.com/Srishti1515/LeetCode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/Srishti1515/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Srishti1515/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/Srishti1515/LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
 ## Counting
 |  |
 | ------- |
