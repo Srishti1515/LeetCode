@@ -44,6 +44,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | [0189-rotate-array](https://github.com/Srishti1515/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Srishti1515/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Srishti1515/LeetCode/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/Srishti1515/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Srishti1515/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0523-continuous-subarray-sum](https://github.com/Srishti1515/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Srishti1515/LeetCode/tree/master/0525-contiguous-array) |
@@ -138,6 +139,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Srishti1515/LeetCode/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/Srishti1515/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Srishti1515/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Srishti1515/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Math
@@ -214,6 +216,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Srishti1515/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Srishti1515/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Prefix Sum
 |  |
@@ -257,5 +260,6 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Srishti1515/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Srishti1515/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 <!---LeetCode Topics End-->
