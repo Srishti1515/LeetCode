@@ -40,6 +40,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Srishti1515/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Srishti1515/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Srishti1515/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Srishti1515/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Srishti1515/LeetCode/tree/master/0048-rotate-image) |
 | [0134-gas-station](https://github.com/Srishti1515/LeetCode/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srishti1515/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -281,4 +282,5 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Srishti1515/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Srishti1515/LeetCode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
