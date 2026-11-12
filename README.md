@@ -47,6 +47,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | [0189-rotate-array](https://github.com/Srishti1515/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Srishti1515/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Srishti1515/LeetCode/tree/master/0283-move-zeroes) |
+| [0416-partition-equal-subset-sum](https://github.com/Srishti1515/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Srishti1515/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Srishti1515/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0523-continuous-subarray-sum](https://github.com/Srishti1515/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -224,6 +225,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Srishti1515/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Srishti1515/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Srishti1515/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Srishti1515/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -283,4 +285,12 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | ------- |
 | [0039-combination-sum](https://github.com/Srishti1515/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Srishti1515/LeetCode/tree/master/0040-combination-sum-ii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Srishti1515/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Srishti1515/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
