@@ -137,6 +137,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | [0387-first-unique-character-in-a-string](https://github.com/Srishti1515/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Srishti1515/LeetCode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/Srishti1515/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [1143-longest-common-subsequence](https://github.com/Srishti1515/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Srishti1515/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Srishti1515/LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
 ## Counting
@@ -231,6 +232,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | [0435-non-overlapping-intervals](https://github.com/Srishti1515/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Srishti1515/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Srishti1515/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1143-longest-common-subsequence](https://github.com/Srishti1515/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -295,4 +297,8 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Srishti1515/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Srishti1515/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
