@@ -198,16 +198,19 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Srishti1515/LeetCode/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/Srishti1515/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Srishti1515/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Srishti1515/LeetCode/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/Srishti1515/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Srishti1515/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Srishti1515/LeetCode/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/Srishti1515/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Srishti1515/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Heap (Priority Queue)
@@ -301,4 +304,12 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Srishti1515/LeetCode/tree/master/1143-longest-common-subsequence) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Srishti1515/LeetCode/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Srishti1515/LeetCode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
