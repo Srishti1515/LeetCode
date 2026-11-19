@@ -203,6 +203,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | [0200-number-of-islands](https://github.com/Srishti1515/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Srishti1515/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Srishti1515/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/Srishti1515/LeetCode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Srishti1515/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Srishti1515/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
@@ -211,6 +212,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | [0200-number-of-islands](https://github.com/Srishti1515/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Srishti1515/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Srishti1515/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/Srishti1515/LeetCode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Srishti1515/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Srishti1515/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Graph Theory
@@ -218,6 +220,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | ------- |
 | [0207-course-schedule](https://github.com/Srishti1515/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Srishti1515/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/Srishti1515/LeetCode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Srishti1515/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Srishti1515/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Heap (Priority Queue)
@@ -324,4 +327,5 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Srishti1515/LeetCode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Srishti1515/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
