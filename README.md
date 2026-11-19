@@ -46,6 +46,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srishti1515/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Srishti1515/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Srishti1515/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Srishti1515/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Srishti1515/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Srishti1515/LeetCode/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/Srishti1515/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -180,6 +181,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Srishti1515/LeetCode/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/Srishti1515/LeetCode/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/Srishti1515/LeetCode/tree/master/0867-transpose-matrix) |
 ## String Matching
 |  |
@@ -198,6 +200,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Srishti1515/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Srishti1515/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Srishti1515/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/Srishti1515/LeetCode/tree/master/0743-network-delay-time) |
@@ -205,6 +208,7 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Srishti1515/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Srishti1515/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Srishti1515/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/Srishti1515/LeetCode/tree/master/0743-network-delay-time) |
@@ -316,4 +320,8 @@ This repository documents my journey of learning **Data Structures & Algorithms 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Srishti1515/LeetCode/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Srishti1515/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
